@@ -1,4 +1,4 @@
-### `$ whoami`
+#### `$ whoami`
 
 Backend tinkerer. Deep learning enthusiast. Competitive programmer by discipline.
 
@@ -10,7 +10,7 @@ When I'm not training models or wrestling with pointers in C++, I'm probably rea
 
 ---
 
-### `$ ls ~/interests`
+#### `$ ls ~/interests`
 
 ```
 backend-tools/      →  FastAPI · Node/Express · REST · automation scripts
@@ -22,7 +22,7 @@ web/                →  React · Vercel · Render · the occasional HTML rabbit
 
 ---
 
-### `$ cat tech_stack.txt`
+#### `$ cat tech_stack.txt`
 
 **Languages**
 
@@ -70,7 +70,7 @@ web/                →  React · Vercel · Render · the occasional HTML rabbit
 
 ---
 
-### `$ github --stats`
+#### `$ github --stats`
 
 <div align="center">
 

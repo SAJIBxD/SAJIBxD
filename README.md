@@ -1,12 +1,10 @@
 #### `$ whoami`
 
-Backend tinkerer. Deep learning enthusiast. Competitive programmer by discipline.
+My name is Sajib, and I'm a backend developer. I love exploring Machine Learning ideas. I am also interested in programming competitively. The projects that I create typically have three main purposes: either they are tools to automate repetitive tasks; machine learning models to find patterns in unstructured data; and finally, they are production-ready systems where the complexity increases.
 
-I like writing code that *does something* — tools that automate the boring stuff, models that learn patterns from messy data, and systems that hold up when things get complicated. My work lives at the intersection of **Python**, **PyTorch**, and obsessive attention to clean architecture.
+I develop most of my code using Python also focusing on creating well-designed software through an obsessive effort to implement good architecture.
 
-When I'm not training models or wrestling with pointers in C++, I'm probably reading about design, watching films, or rethinking how a website should feel.
-
-> *"Make it work, make it right, make it fast — in that order."*
+When I am not working on models, I like spend my time on automation and scripting or thinking about new ways to improve efficiency.
 
 ---
 
@@ -17,7 +15,7 @@ backend-tools/      →  FastAPI · Node/Express · REST · automation scripts
 deep-learning/      →  PyTorch · Keras · scikit-learn · MLflow · model pipelines
 competitive-prog/   →  C++ · algorithms · data structures · problem solving
 data-stack/         →  Pandas · NumPy · Matplotlib · Plotly · PostgreSQL · MongoDB
-web/                →  React · Vercel · Render · the occasional HTML rabbit hole
+web/                →  React · Vercel · Render
 ```
 
 ---
